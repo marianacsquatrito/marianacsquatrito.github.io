@@ -197,10 +197,7 @@ margin-right: 7%;
 #resume {
   color: #233d37;
 }
-video{
-  padding-left: 10%;
-  padding-bottom: 5%;
-}
+
 #mediatitle {
   color: white;
   text-align: center;
@@ -212,4 +209,8 @@ video{
   padding-left: 10%;
   text-decoration: none;
 
+}
+video{
+  margin-left: 10%;
+  padding-bottom: 5%;
 }
