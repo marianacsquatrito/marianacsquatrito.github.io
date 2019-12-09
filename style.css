@@ -172,23 +172,44 @@ margin-right: 7%;
   border: 2px solid white;
 }
   .portfolioimage {
-    width: 60%;
+    height: 40%;
+
   }
-  .imagetext {
+  #imagetext {
     text-align: center;
-  text-decoration: none;
+    text-decoration: none;
     color: #152d4a;
   }
 .button {
   background-color: white;
   border-color: white;
-  opacity: .8;
+  opacity: .9;
   padding: 10px 18px;
   border-radius: 6px;
   margin-left: 70%;
   font-family: 'Sunshiney', cursive;
   font-size: 1em;
+  text-decoration: none;
 }
 .button:hover{
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#resume {
+  color: #233d37;
+}
+video{
+  padding-left: 10%;
+  padding-bottom: 5%;
+}
+#mediatitle {
+  color: white;
+  text-align: center;
+  padding-top: 3%;
+}
+#mediatext {
+  text-align: left;
+  color: white;
+  padding-left: 10%;
+  text-decoration: none;
+
 }
